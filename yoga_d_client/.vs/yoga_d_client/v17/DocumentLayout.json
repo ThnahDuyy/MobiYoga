@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Destop\\VV\\yoga_d_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\yoga_class_page\\yogaclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\yoga_class_page\\yogaclasspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\yoga_class_page\\advancesearchalert.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\yoga_class_page\\advancesearchalert.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\yoga_class_page\\advancesearchalert.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\yoga_class_page\\advancesearchalert.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\class_instance_page\\classinstancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\class_instance_page\\classinstancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\class_instance_page\\classinstancepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\class_instance_page\\classinstancepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\yoga_detail_page\\yogaclassdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\yoga_detail_page\\yogaclassdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\yoga_detail_page\\yogaclassdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\yoga_detail_page\\yogaclassdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\yoga_class_page\\yogaclasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\yoga_class_page\\yogaclasspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\service\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\service\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\yoga_class_page\\yogaclassviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\yoga_class_page\\yogaclassviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\page\\class_instance_page\\classinstanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\page\\class_instance_page\\classinstanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\model\\classinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\model\\classinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\model\\yogaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\model\\yogaclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\yoga_d_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:yoga_d_client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\constant\\yogaclasskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\constant\\yogaclasskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\destop\\vv\\yoga_d_client\\app\\constant\\classinstancekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:app\\constant\\classinstancekey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "yoga_d_client.csproj",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\yoga_d_client.csproj",
+              "RelativeDocumentMoniker": "yoga_d_client.csproj",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\yoga_d_client.csproj",
+              "RelativeToolTip": "yoga_d_client.csproj",
+              "ViewState": "AgIAAFYAAAAAAAAAAADwv2QAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T03:24:52.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:02:48.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T03:02:44.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "YogaClassViewModel.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\YogaClassViewModel.cs",
+              "RelativeDocumentMoniker": "app\\page\\yoga_class_page\\YogaClassViewModel.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\YogaClassViewModel.cs",
+              "RelativeToolTip": "app\\page\\yoga_class_page\\YogaClassViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:01:08.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YogaClassPage.xaml.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\YogaClassPage.xaml.cs",
+              "RelativeDocumentMoniker": "app\\page\\yoga_class_page\\YogaClassPage.xaml.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\YogaClassPage.xaml.cs",
+              "RelativeToolTip": "app\\page\\yoga_class_page\\YogaClassPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T03:01:01.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "YogaClassKey.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\constant\\YogaClassKey.cs",
+              "RelativeDocumentMoniker": "app\\constant\\YogaClassKey.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\constant\\YogaClassKey.cs",
+              "RelativeToolTip": "app\\constant\\YogaClassKey.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:56:08.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClassInstanceKey.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\constant\\ClassInstanceKey.cs",
+              "RelativeDocumentMoniker": "app\\constant\\ClassInstanceKey.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\constant\\ClassInstanceKey.cs",
+              "RelativeToolTip": "app\\constant\\ClassInstanceKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:53:42.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "YogaClass.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\model\\YogaClass.cs",
+              "RelativeDocumentMoniker": "app\\model\\YogaClass.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\model\\YogaClass.cs",
+              "RelativeToolTip": "app\\model\\YogaClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:52:04.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassInstance.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\model\\ClassInstance.cs",
+              "RelativeDocumentMoniker": "app\\model\\ClassInstance.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\model\\ClassInstance.cs",
+              "RelativeToolTip": "app\\model\\ClassInstance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:52:00.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClassInstancePage.xaml.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\class_instance_page\\ClassInstancePage.xaml.cs",
+              "RelativeDocumentMoniker": "app\\page\\class_instance_page\\ClassInstancePage.xaml.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\class_instance_page\\ClassInstancePage.xaml.cs",
+              "RelativeToolTip": "app\\page\\class_instance_page\\ClassInstancePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:51:43.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassInstanceViewModel.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\class_instance_page\\ClassInstanceViewModel.cs",
+              "RelativeDocumentMoniker": "app\\page\\class_instance_page\\ClassInstanceViewModel.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\class_instance_page\\ClassInstanceViewModel.cs",
+              "RelativeToolTip": "app\\page\\class_instance_page\\ClassInstanceViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:51:40.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassInstancePage.xaml",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\class_instance_page\\ClassInstancePage.xaml",
+              "RelativeDocumentMoniker": "app\\page\\class_instance_page\\ClassInstancePage.xaml",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\class_instance_page\\ClassInstancePage.xaml",
+              "RelativeToolTip": "app\\page\\class_instance_page\\ClassInstancePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T02:51:38.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdvanceSearchAlert.xaml",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\AdvanceSearchAlert.xaml",
+              "RelativeDocumentMoniker": "app\\page\\yoga_class_page\\AdvanceSearchAlert.xaml",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\AdvanceSearchAlert.xaml",
+              "RelativeToolTip": "app\\page\\yoga_class_page\\AdvanceSearchAlert.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T02:50:57.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvanceSearchAlert.xaml.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\AdvanceSearchAlert.xaml.cs",
+              "RelativeDocumentMoniker": "app\\page\\yoga_class_page\\AdvanceSearchAlert.xaml.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\AdvanceSearchAlert.xaml.cs",
+              "RelativeToolTip": "app\\page\\yoga_class_page\\AdvanceSearchAlert.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:50:43.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "YogaClassDetailPage.xaml",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_detail_page\\YogaClassDetailPage.xaml",
+              "RelativeDocumentMoniker": "app\\page\\yoga_detail_page\\YogaClassDetailPage.xaml",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_detail_page\\YogaClassDetailPage.xaml",
+              "RelativeToolTip": "app\\page\\yoga_detail_page\\YogaClassDetailPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T02:49:37.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YogaClassDetailPage.xaml.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_detail_page\\YogaClassDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "app\\page\\yoga_detail_page\\YogaClassDetailPage.xaml.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_detail_page\\YogaClassDetailPage.xaml.cs",
+              "RelativeToolTip": "app\\page\\yoga_detail_page\\YogaClassDetailPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAD4vxkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:49:27.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YogaClassPage.xaml",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\YogaClassPage.xaml",
+              "RelativeDocumentMoniker": "app\\page\\yoga_class_page\\YogaClassPage.xaml",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\page\\yoga_class_page\\YogaClassPage.xaml",
+              "RelativeToolTip": "app\\page\\yoga_class_page\\YogaClassPage.xaml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T02:46:39.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "D:\\Destop\\VV\\yoga_d_client\\app\\service\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "app\\service\\FirebaseService.cs",
+              "ToolTip": "D:\\Destop\\VV\\yoga_d_client\\app\\service\\FirebaseService.cs",
+              "RelativeToolTip": "app\\service\\FirebaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:36:56.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

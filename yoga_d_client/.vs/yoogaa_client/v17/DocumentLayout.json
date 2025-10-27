@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JOB_ASM\\nguyen_thanh_duy\\yoogaa_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|d:\\job_asm\\nguyen_thanh_duy\\yoogaa_client\\resources\\raw\\service_account_firebase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29BC8DE1-E16E-4DB6-A994-21C52F7353FB}|yoga_d_client.csproj|solutionrelative:resources\\raw\\service_account_firebase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "service_account_firebase.json",
+              "DocumentMoniker": "D:\\JOB_ASM\\nguyen_thanh_duy\\yoogaa_client\\Resources\\Raw\\service_account_firebase.json",
+              "RelativeDocumentMoniker": "Resources\\Raw\\service_account_firebase.json",
+              "ToolTip": "D:\\JOB_ASM\\nguyen_thanh_duy\\yoogaa_client\\Resources\\Raw\\service_account_firebase.json",
+              "RelativeToolTip": "Resources\\Raw\\service_account_firebase.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T02:22:16.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

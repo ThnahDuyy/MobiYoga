@@ -1,0 +1,12 @@
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\yoga_d_client.csproj.AssemblyReference.cache
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\JOB_ASM\nguyen_thanh_duy\yoga_d_client\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\yoga_d_client.GeneratedMSBuildEditorConfig.editorconfig

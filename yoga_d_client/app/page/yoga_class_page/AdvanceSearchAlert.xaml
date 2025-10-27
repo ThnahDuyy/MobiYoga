@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mct:Popup xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+           xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+           x:Class="yoga_d_client.app.page.yoga_class_page.AdvanceSearchAlert"
+           xmlns:mct="clr-namespace:CommunityToolkit.Maui.Views;assembly=CommunityToolkit.Maui"
+           CanBeDismissedByTappingOutsideOfPopup="true"  
+           Shell.PresentationMode="ModalAnimated">
+    <Grid 
+        BackgroundColor="White" 
+        Margin="15"
+        Padding="10"
+        HeightRequest="300"
+        WidthRequest="350"
+        RowDefinitions="60,*">
+        <HorizontalStackLayout Grid.Row="0">
+            <Label Text="Advance Search" FontSize="Large" FontAttributes="Bold"/>
+        </HorizontalStackLayout>
+        <VerticalStackLayout Grid.Row="1" Margin="15,0,15,0">
+            <Label 
+                Text="Day of week"
+                />
+            <Picker x:Name="date_of_week" Title="Choose day"/>
+            <Label 
+                Margin="0,10,0,0"
+                 Text="Time of course"
+                />
+            <Entry x:Name="time_of_course" Placeholder="hh:mm"/>
+            <Button
+                Clicked="OnSearch"
+                Margin="0,25,0,0"
+                Text="SEARCH" 
+                BackgroundColor="{StaticResource Primary}"/>
+        </VerticalStackLayout>
+    </Grid>
+</mct:Popup>

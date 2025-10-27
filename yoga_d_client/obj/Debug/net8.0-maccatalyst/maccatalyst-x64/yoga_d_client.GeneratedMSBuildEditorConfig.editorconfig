@@ -1,0 +1,65 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = yoga_d_client
+build_property.ProjectDir = D:\Destop\VV\yoga_d_client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/Destop/VV/yoga_d_client/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yoga_d_client.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Destop/VV/yoga_d_client/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yoga_d_client.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Destop/VV/yoga_d_client/app/page/class_instance_page/ClassInstancePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yoga_d_client.app.page.class_instance_page.ClassInstancePage.xaml
+build_metadata.AdditionalFiles.TargetPath = app\page\class_instance_page\ClassInstancePage.xaml
+build_metadata.AdditionalFiles.RelativePath = app\page\class_instance_page\ClassInstancePage.xaml
+
+[D:/Destop/VV/yoga_d_client/app/page/yoga_class_page/AdvanceSearchAlert.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yoga_d_client.app.page.yoga_class_page.AdvanceSearchAlert.xaml
+build_metadata.AdditionalFiles.TargetPath = app\page\yoga_class_page\AdvanceSearchAlert.xaml
+build_metadata.AdditionalFiles.RelativePath = app\page\yoga_class_page\AdvanceSearchAlert.xaml
+
+[D:/Destop/VV/yoga_d_client/app/page/yoga_class_page/YogaClassPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yoga_d_client.app.page.yoga_class_page.YogaClassPage.xaml
+build_metadata.AdditionalFiles.TargetPath = app\page\yoga_class_page\YogaClassPage.xaml
+build_metadata.AdditionalFiles.RelativePath = app\page\yoga_class_page\YogaClassPage.xaml
+
+[D:/Destop/VV/yoga_d_client/app/page/yoga_detail_page/YogaClassDetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yoga_d_client.app.page.yoga_detail_page.YogaClassDetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = app\page\yoga_detail_page\YogaClassDetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = app\page\yoga_detail_page\YogaClassDetailPage.xaml
+
+[D:/Destop/VV/yoga_d_client/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yoga_d_client.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Destop/VV/yoga_d_client/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yoga_d_client.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

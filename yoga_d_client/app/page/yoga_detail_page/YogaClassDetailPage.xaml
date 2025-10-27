@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="yoga_d_client.app.page.yoga_detail_page.YogaClassDetailPage">
+    <VerticalStackLayout Padding="10">
+        <Label Text="Yoga Class Detail" 
+              FontAttributes="Bold"
+               FontSize="Large" 
+               HorizontalTextAlignment="Center"/>
+        <Label x:Name="name" FontSize="Body"/>
+        <Label x:Name="capacity" FontSize="Body"/>
+        <Label x:Name="day_of_week" FontSize="Body"/>
+        <Label x:Name="duration" FontSize="Body"/>
+        <Label x:Name="price" FontSize="Body"/>
+        <Label x:Name="time_of_course" FontSize="Body"/>
+        <Label x:Name="type_of_class" FontSize="Body"/>
+        <Label x:Name="description" FontSize="Body"/>
+        <Button 
+            Margin="0,15,0,0"
+            Text="Class instance list" 
+            Background="{StaticResource Primary}" 
+            Clicked="ClassInstanceClicked"/>
+        <Button 
+            Text="Back" 
+              Margin="0,15,0,0"
+            Background="{StaticResource Primary}" 
+            Clicked="backClicked"/>
+    </VerticalStackLayout>
+</ContentPage>

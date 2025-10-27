@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:views="clr-namespace:yoga_d_client.app.page.class_instance_page"
+             xmlns:model="clr-namespace:yoga_d_client.app.model"
+             x:DataType="views:ClassInstanceViewModel"
+             x:Class="yoga_d_client.app.page.class_instance_page.ClassInstancePage">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="Class Instance" 
+FontAttributes="Bold"
+      Grid.Row="0"
+ FontSize="Large" 
+ HorizontalTextAlignment="Center"/>
+
+        <CollectionView 
+
+            ItemsSource="{Binding ClasseInstanceList}" 
+               Grid.Row="1"
+                Margin="0,20,0,0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="model:ClassInstance">
+                    <Frame Padding="10" Margin="5"  BackgroundColor="{StaticResource Primary}">
+                        <VerticalStackLayout Spacing="15">
+
+                            <Label 
+                                Text="{Binding teacher, StringFormat='Teacher: {0}'}"   
+                                TextColor="White"
+                                FontSize="Medium" />
+                            <Label 
+                                Text="{Binding date, StringFormat='Date: {0}'}"   
+                                TextColor="White"
+                                FontSize="Medium" />
+                            <Label 
+                                TextColor="White"
+                                Text="{Binding comment,  StringFormat='Comment {0}'}"   
+                                FontSize="Medium" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </Grid>
+</ContentPage>
