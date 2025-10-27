@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@drawable/shape_view_class_instance"
+    android:layout_marginBottom="20dp">
+
+    <LinearLayout
+        android:layout_marginVertical="@dimen/_5sdp"
+        android:layout_marginHorizontal="15dp"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                style="@style/icon_view_yoga_class"
+                android:src="@drawable/teacher" />
+
+            <TextView
+                android:textStyle="bold"
+                android:textSize="@dimen/_12sdp"
+                android:layout_gravity="center"
+                android:layout_marginStart="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Teacher: " />
+
+            <TextView
+                android:layout_gravity="center"
+                android:textSize="@dimen/_12sdp"
+                android:id="@+id/txt_teacher"
+                android:layout_marginStart="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10:10 - Monday" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                style="@style/icon_view_yoga_class"
+                android:src="@drawable/schedule" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="10dp"
+                android:text="Date: "
+                android:textSize="@dimen/_12sdp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:textSize="@dimen/_12sdp"
+                android:layout_gravity="center"
+                android:id="@+id/txt_date"
+                android:layout_marginStart="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="16-10-2002" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Comment: "
+                android:textSize="@dimen/_12sdp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:textSize="@dimen/_12sdp"
+                android:layout_gravity="center"
+                android:id="@+id/txt_des"
+                android:layout_marginStart="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_90sdp">
+
+        <ImageButton
+            android:id="@+id/btn_edit"
+            style="@style/btn_edit_item"
+            android:src="@drawable/edit" />
+
+        <ImageButton
+            android:id="@+id/btn_delete"
+            style="@style/btn_edit_item"
+            android:src="@drawable/trash" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <LinearLayout
+        android:id="@+id/main"
+        android:padding="@dimen/_15sdp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_marginBottom="15dp"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/btn_back"
+                style="@style/icon_btn"
+                android:src="@drawable/back"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Yoga Class Detail"
+                android:textSize="@dimen/_16sdp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <LinearLayout
+            android:paddingHorizontal="@dimen/_5sdp"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:textStyle="bold"
+                    android:layout_marginStart="0dp"
+                    style="@style/txt_view_yoga_class_detail"
+                    android:text="Name: " />
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    style="@style/txt_view_yoga_class_detail"
+                    android:text="yoga 1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:textStyle="bold"
+                    style="@style/txt_view_yoga_class_detail"
+                    android:text="Type of class: " />
+
+                <TextView
+                    android:id="@+id/txt_type_of_class"
+                    style="@style/txt_view_yoga_class_detail"
+                    android:text="Family yoga" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:textStyle="bold"
+                    style="@style/txt_view_yoga_class_detail"
+                    android:text="Capacity: " />
+
+                <TextView
+                    android:id="@+id/txt_member"
+                    style="@style/txt_view_yoga_class_detail"
+                    android:text="7" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    style="@style/txt_view_yoga_class_detail"
+                    android:textStyle="bold"
+                    android:text="Price: " />
+
+                <TextView
+                    style="@style/txt_view_yoga_class_detail"
+                    android:id="@+id/txt_price"
+                    android:text="7$" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    style="@style/txt_view_yoga_class_detail"
+                    android:textStyle="bold"
+                    android:text="Day of week: " />
+
+                <TextView
+                    style="@style/txt_view_yoga_class_detail"
+                    android:textAlignment="center"
+                    android:id="@+id/txt_day_of_week"
+                    android:text="Monday" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    style="@style/txt_view_yoga_class_detail"
+                    android:textStyle="bold"
+                    android:text="Time and day: " />
+
+                <TextView
+                    style="@style/txt_view_yoga_class_detail"
+                    android:textAlignment="center"
+                    android:id="@+id/txt_time_of_course"
+                    android:text="10:10" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    style="@style/txt_view_yoga_class_detail"
+                    android:textStyle="bold"
+                    android:text="Duration: " />
+
+                <TextView
+                    style="@style/txt_view_yoga_class_detail"
+                    android:id="@+id/txt_duration"
+                    android:text="7 mins" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:textStyle="bold"
+                    android:layout_marginStart="0dp"
+                    style="@style/txt_view_yoga_class_detail"
+                    android:text="Description: " />
+
+                <TextView
+                    android:id="@+id/txt_des"
+                    style="@style/txt_view_yoga_class_detail"
+                    android:text="yoga 1" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_view_class_instance"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:text="Class Instance list"
+            android:background="@drawable/shape_btn"
+            android:textColor="@color/white"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</layout>

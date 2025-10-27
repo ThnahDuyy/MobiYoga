@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+
+    <LinearLayout
+        android:padding="@dimen/_15sdp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_width="match_parent">
+
+            <TextView
+                android:gravity="center"
+                android:textSize="@dimen/_20ssp"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="Yoga Class" />
+
+            <LinearLayout
+                android:layout_height="match_parent"
+                android:gravity="end"
+                android:layout_width="match_parent">
+
+                <ImageButton
+                    android:id="@+id/btn_refresh"
+
+                    style="@style/icon_btn"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    android:src="@drawable/undo" />
+
+                <ImageButton
+                    android:id="@+id/btn_add"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    style="@style/icon_btn"
+                    android:src="@drawable/add" />
+
+                <ImageButton
+                    android:id="@+id/btn_advance_search"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    style="@style/icon_btn"
+                    android:src="@drawable/filter" />
+
+                <ImageButton
+                    android:id="@+id/btn_setting"
+                    style="@style/icon_btn"
+                    android:src="@drawable/setting" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <EditText
+            android:layout_marginVertical="@dimen/_5sdp"
+            android:id="@+id/txt_search_teacher"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:hint="Search teacher"
+            android:text="" />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/yoga_rcv"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginTop="15dp"
+            android:layout_weight="1"
+            tools:itemCount="5"
+            tools:layout_editor_absoluteX="1dp"
+            tools:layout_editor_absoluteY="1dp"
+            tools:listitem="@layout/item_yoga_class" />
+    </LinearLayout>
+</layout>

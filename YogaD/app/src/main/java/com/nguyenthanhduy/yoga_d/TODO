@@ -1,0 +1,25 @@
+1. setup google account: <done>
+    account: thanhduy.firebase@gmail.com
+    password: Duy123456
+
+2. base set up: <done>
+    2.1 database <done>
+    2.2 utils <done>
+    2.3 yoga adapter <done>
+    2.4 class instance adapter <done>
+3. yoga class
+    3.1 create || update
+        3.1.1 day of week dialog <done>
+        3.1.2 time of course dialog <done>
+        3.1.3 type of class dialog <done>
+    3.2 delete <done>
+    3.3 search teacher <done>
+    3.4 advance search <done>
+    3.5 detail <done>
+    3.6 view <done>
+
+4.1 class instance
+    4.1 create <done>
+    4.2 update <done>
+    4.3 delete <done>
+    4.4 view  <done>
